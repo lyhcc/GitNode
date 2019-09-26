@@ -1,2 +1,2 @@
 # GitNode
-使用gitNote写的一些比较
+使用gitNote写的一些笔记
