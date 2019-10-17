@@ -1,9 +1,9 @@
 英语单词记忆逻辑图
 - [abandon_to_abundent](https://lyhcc.github.io/GitNode/English/words/abandon_to_abundant.svg)
 - [abdomen](https://lyhcc.github.io/GitNode/English/words/abdomen.svg)
-- [abide_abnormal](https://lyhcc.github.io/GitNode/English/words/abide_abnormal.svg)
+- [abide_abnormal](https://lyhcc.github.io/GitNode/English/words/abide_abnormal.svg) 
 
-```en
+```
 abide	vi.(abode，abided)(by)遵守；坚持
 obey	v.服从, 顺从
 obedience n.服从,顺从
@@ -20,8 +20,8 @@ neutral 中立的，中性
 
 
 
-- [oboard_to_establish](https://lyhcc.github.io/GitNode/English/words/oboard_to_establish.svg)
-```en
+- [oboard_to_establish](https://lyhcc.github.io/GitNode/English/words/oboard_to_establish.svg)  
+```
 aboard  ad.&prep.在船(飞机、车)上；ad.上船(飞机)
 board n .板,木板;全体委员;伙食 v.上船(车,飞机)
 
