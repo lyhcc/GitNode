@@ -57,7 +57,3 @@ abolish vt.废除(法律、习惯等)；取消
 obsolete  废弃的; 老式的，已过时的; [生]已废退的;
 
 ```
-- [above](https://lyhcc.github.io/GitNode/English/words/above.svg)  
-- [abrupt](https://lyhcc.github.io/GitNode/English/words/abrupt.svg)  
-- [absolute_lease](https://lyhcc.github.io/GitNode/English/words/absolute_lease.svg)  
-
